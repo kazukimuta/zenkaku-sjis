@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/kazukimuta/zenkaku-sjis.svg?branch=master)](https://travis-ci.org/kazukimuta/zenkaku-sjis)
 # zenkaku-sjis
 
 StraightForward 全角 text validator and convertor, includes SJIS第一水準, 第二水準漢字 validation.
