@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/kazukimuta/zenkaku-sjis.svg?branch=master)](https://travis-ci.org/kazukimuta/zenkaku-sjis)
+[![Build Status](https://travis-ci.org/kazukimuta/zenkaku-sjis.svg?branch=master)](https://travis-ci.org/kazukimuta/zenkaku-sjis) [![Coverage Status](https://coveralls.io/repos/github/kazukimuta/zenkaku-sjis/badge.svg?branch=master)](https://coveralls.io/github/kazukimuta/zenkaku-sjis?branch=master)
 # zenkaku-sjis
 
 StraightForward 全角 text validator and convertor, includes SJIS第一水準, 第二水準漢字 validation.
