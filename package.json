@@ -1,0 +1,18 @@
+{
+  "name": "zenkaku-sjis",
+  "version": "0.0.1",
+  "main": "main.js",
+  "author": "Kazuki Muta<kazukimuta@gmail.com>",
+  "description": "StraightForward 全角文字 Validator and convertor, with Shift-JIS 第一, 第二水準漢字 validation",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "mocha": "^5.1.1"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  }
+}
